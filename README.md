@@ -1,0 +1,2 @@
+# fazaa
+fazaa new
